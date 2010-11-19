@@ -4,8 +4,8 @@ Double call before method demo.
 
 == Execution
 
-  $ ./double_before.rb
-  $ ./double_before_test.rb
+  $ ruby double_before.rb
+  $ ruby double_before_test.rb
 
 == Note on Patches/Pull Requests
 
